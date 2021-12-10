@@ -14,6 +14,14 @@
 ---
 [Eazy E](http://example.com/)
 <img src="images/e.jpg?raw=true"/>
+---
+[Earth](http://example.com/)
+<img src="images/earth.jpg?raw=true"/>
+---
+[Dwayne](http://example.com/)
+<img src="images/rock.jpg?raw=true"/>
+
+
 
 ---
 
