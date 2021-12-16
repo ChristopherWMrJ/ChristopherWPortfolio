@@ -5,7 +5,7 @@
 ### My Creative Works 
 
 [cat](/sample_page)
-<img src="images/dog.jpg?raw=true"/>
+<img src="images/Doog.jpg?raw=true"/>
 
 ---
 [Grafiti Art](/pdf/sample_presentation.pdf)
